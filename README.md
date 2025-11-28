@@ -24,4 +24,8 @@ To create a truly decentralized meritocracy where the best ideas rise to the top
 - Cross-chain expansion (Layer 2 & other EVM chains)
 - Grant matching program with partner ecosystems
 
+- contract address:0x8d3c30C0358aC50d7a7073a9685446b0c325f22b
+<img width="1454" height="420" alt="image" src="https://github.com/user-attachments/assets/6f2679bf-61f7-4a8a-b307-f141f8f3a904" />
+
 **Join the movement. Be a Blockpioneer today.**
+
